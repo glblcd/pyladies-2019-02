@@ -43,12 +43,9 @@ Just like reading a poem
 ---
 
 
-@snap[west]
-@quote[Rule 1: Code is executed *Top Down*]
-@snapend
-
-@snap[north]
-@quote[Rule 2: A branch means you take one path or the other]
+@snap[west ]
+  * Rule 1: Code is executed *Top Down*
+  * Rule 2: A branch means you take one path or the other
 @snapend
 
 @snap[south]
@@ -89,21 +86,14 @@ Like points on a railway
 @[6] (n=8)
 @[7] (n=8)
 
-@[8]
+@[9]
 
 ---
 
-
 @snap[west]
-@quote[Rule 1: Code is executed *Top Down*]
-@snapend
-
-@snap[north]
-@quote[Rule 2: A branch means you take one path or the other]
-@snapend
-
-@snap[east]
-@quote[A loop means you go back]
+  * Rule 1: Code is executed *Top Down*
+  * Rule 2: A branch means you take one path or the other
+  * Rule 3: A loop means you go back
 @snapend
 
 @snap[south]
