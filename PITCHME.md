@@ -23,7 +23,7 @@
 ---
 
 @snap[west]
-@quote[Code is executed *Top Down*]
+@quote[Rule 1: Code is executed *Top Down*]
 @snapend
 
 @snap[south]
@@ -41,10 +41,19 @@ Just like reading a poem
 @[10]
 
 ---
-# Rule 2
-Branches split the execution
 
-A bit like... points in a railway
+
+@snap[west]
+@quote[Rule 1: Code is executed *Top Down*]
+@snapend
+
+@snap[north]
+@quote[Rule 2: A branch means you take one path or the other]
+@snapend
+
+@snap[south]
+Like points on a railway
+@snapend
 
 ---?gist=sammoorhouse/b762b3a44ff853b0f764b84f2a084688&title=Python
 
@@ -83,7 +92,20 @@ A bit like... points in a railway
 @[8]
 
 ---
-# Rule 3
-Loops mean you can go back
 
-Usually something should change
+
+@snap[west]
+@quote[Rule 1: Code is executed *Top Down*]
+@snapend
+
+@snap[north]
+@quote[Rule 2: A branch means you take one path or the other]
+@snapend
+
+@snap[east]
+@quote[A loop means you go back]
+@snapend
+
+@snap[south]
+Usually based on a condition
+@snapend
