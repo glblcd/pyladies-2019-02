@@ -23,7 +23,7 @@
 ---
 
 @snap[northwest]
-  * Rule 1: Code is executed *Top Down*
+* Rule 1: Code is executed *Top Down*
 @snapend
 
 @snap[south]
@@ -44,8 +44,8 @@ Just like reading a poem
 
 
 @snap[northwest]
-  * Rule 1: Code is executed *Top Down*
-  * Rule 2: A branch means you take one path or the other
+* Rule 1: Code is executed *Top Down*
+* Rule 2: A branch means you take one path or the other
 @snapend
 
 @snap[south]
@@ -91,9 +91,9 @@ Like points on a railway
 ---
 
 @snap[northwest]
-  * Rule 1: Code is executed *Top Down*
-  * Rule 2: A branch means you take one path or the other
-  * Rule 3: A loop means you go back
+* Rule 1: Code is executed *Top Down*
+* Rule 2: A branch means you take one path or the other
+* Rule 3: A loop means you go back
 @snapend
 
 @snap[south]
