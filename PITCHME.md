@@ -21,9 +21,14 @@
 @[7]
 
 ---
-# Rule 1
-Code is executed *Top Down*
+
+@snap[west]
+@quote[Code is executed *Top Down*]
+@snapend
+
+@snap[south]
 Just like reading a poem
+@snapend
 
 ---?gist=sammoorhouse/fcec9fbd0e688d7fde2c347da26f573e&title=Python
 @[1]
@@ -38,6 +43,7 @@ Just like reading a poem
 ---
 # Rule 2
 Branches split the execution
+
 A bit like... points in a railway
 
 ---?gist=sammoorhouse/b762b3a44ff853b0f764b84f2a084688&title=Python
@@ -79,4 +85,5 @@ A bit like... points in a railway
 ---
 # Rule 3
 Loops mean you can go back
+
 Usually something should change
