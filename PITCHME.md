@@ -9,10 +9,14 @@
 * I run Global Code (@glblcd), a summer program for software engineers
 * I'm also building turntabl (@turntablio), a sustainable startup in Ghana
 
----?gist=https://gist.github.com/sammoorhouse/23eff05c64b53a6150e69161033aac0e
+---?gist=https://gist.github.com/sammoorhouse/23eff05c64b53a6150e69161033aac0e&title=Python
 @[1]
-@[2]
+
 @[3]
 @[4]
 @[5]
 
+@[6]
+
+--- Rule 1
+ Code is executed *Top Down*
