@@ -14,11 +14,11 @@ I ❤️ to teach programming
 ---
 
 #### I run Global Code
-a summer program for software engineers
+<style>
+ bg-color: black;
+</style>
 
-@snap[north-west]
-←
-@snapend
+a summer program for software engineers
 
 ---
 
