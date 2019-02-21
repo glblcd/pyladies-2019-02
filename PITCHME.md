@@ -120,10 +120,26 @@ Usually based on a condition
 ![Top-down](down-arrow.png)
 @snapend
 
-@snap[center span-20]
+@snap[south span-20]
 ![Branch](branch.png)
 @snapend
 
 @snap[east span-20]
 ![Branch](loop.png)
 @snapend
+
+---
+
+![Mess](mess.png)
+
+---
+
+![Mess](more-mess.png)
+
+So how do we manage complexity?
+
+If a function grows really big and complicated, what do we do?
+
+Use functions for repeated tasks
+
+Use alternative syntax - more "pythonic"
