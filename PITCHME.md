@@ -22,13 +22,13 @@
 
 ---
 
-@snap[east]
+@snap[east span-50]
 Rule 1: Code is executed *Top Down*
-@endsnap
+@snapend
 
-@snap[west]
+@snap[west span-40]
 ![Top-down](down-arrow.png)
-@endsnap
+@snapend
 
 @snap[south]
 Just like reading a poem
