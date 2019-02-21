@@ -11,8 +11,12 @@
 ### I'm Sam Moorhouse (@sammoorhouse)
 * I ❤️ to teach programming
 
+---
+
 ### I run Global Code (@glblcd)
 a summer program for software engineers
+
+---
 
 ### I'm also building turntabl (@turntablio)
 a sustainable startup in Ghana
