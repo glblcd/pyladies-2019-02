@@ -3,23 +3,22 @@
 ![Global Code](GC_Logo_artwork_RGB-LOGO_colour_SMALL.png)
 
 ---
-## Who's this guy
+# Who's this guy
 * And what is he doing here?
 
 ---
 
 #### I'm Sam Moorhouse 
-@fa[twitter] @sammoorhouse
 I ❤️ to teach programming
 
 ---
 
-##### I run Global Code (@glblcd)
+#### I run Global Code
 a summer program for software engineers
 
 ---
 
-###### I'm building turntabl (@turntablio)
+#### I'm building turntabl
 a sustainable startup in Ghana
 
 ---?gist=sammoorhouse/23eff05c64b53a6150e69161033aac0e&title=Python&lang=python
@@ -193,3 +192,10 @@ Use alternative syntax - more "pythonic"
 ---?gist=sammoorhouse/d151cafd9289d8223205cd064fa76008&title=List Comprehension&lang=python
 
 @[12]
+
+---
+
+#Thanks
+
+Me: @fa[twitter] @sammoorhouse
+Global Code: @fa[twitter] @glblcd
