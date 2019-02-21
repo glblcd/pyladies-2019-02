@@ -3,7 +3,11 @@
 ![Global Code](GC_Logo_artwork_RGB-LOGO_colour_SMALL.png)
 
 ---
-## Intro
+## Who's this guy
+* And what is he doing here
+
+---
+
 * I'm Sam Moorhouse (@sammoorhouse)
 * I teach programming for a living
 * I run Global Code (@glblcd), a summer program for software engineers
