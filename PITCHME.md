@@ -138,21 +138,21 @@ Based on a condition
 
 ---
 
-@snap[west span-50]
+@snap[west span-40]
 But your code gets complex...
 @snapend
 
-@snap[east span-40]
+@snap[east span-60]
 ![Mess](mess.png)
 @snapend
 
 ---
 
-@snap[west span-50]
+@snap[west span-40]
 But your code gets complex...
 @snapend
 
-@snap[east span-40]
+@snap[east span-60]
 ![Mess](more-mess.png)
 @snapend
 
