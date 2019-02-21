@@ -190,10 +190,8 @@ Use functions for repeated tasks
 @[8](easier to make changes)
 @[]
 
----
-
 ---?gist=sammoorhouse/a5ac4b5cfafa150c3f3e935a11cdf10e&title=exercise&lang=python
-@[1-7] Python Dictionary
+@[1-7](Just a Python Dictionary)
 @[]
 
 ---
