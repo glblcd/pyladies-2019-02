@@ -169,10 +169,9 @@ What happens as we work?
 
 ---
 
-If a function grows really big and complex
+@box(If a function grows really big and complex just create a new one)
 
-* just create a new one
-* they're free!
+They're free!
 
 Use functions for repeated tasks
 
