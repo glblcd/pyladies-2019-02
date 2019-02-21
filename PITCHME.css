@@ -2,3 +2,11 @@
   border: 0;
   box-shadow: none;
 }
+
+code.lang-python.hljs span.line{
+    opacity:1.0;
+}
+
+code.lang-python.hljs span.line{
+    color: red;
+}
