@@ -189,7 +189,7 @@ If a function grows really big and complicated
 
 Use functions for repeated tasks
 
----?gist=sammoorhouse/a5ac4b5cfafa150c3f3e935a11cdf10e&title=exercise
+---?gist=sammoorhouse/a5ac4b5cfafa150c3f3e935a11cdf10e&title=exercise&lang=python
 @[1-7] Python Dictionary
 @[]
 
@@ -199,7 +199,9 @@ Use alternative syntax - more "pythonic"
 
 ---?gist=sammoorhouse/d151cafd9289d8223205cd064fa76008&title=List Comprehension&lang=python
 
-@[12]
+@[10](get the data out)
+@[11](filter the data)
+@[9](what do we want to end up with?)
 
 ---
 
