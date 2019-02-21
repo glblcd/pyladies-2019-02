@@ -31,12 +31,12 @@ Just like reading a poem
 ---?gist=sammoorhouse/fcec9fbd0e688d7fde2c347da26f573e&title=Python&lang=python
 @[1]
 
-@[3]
-@[4]
-@[5]
-@[6]
+@[3] (a = [1, 15, 94, 13, 12, 11, 5, 22, 65])
+@[4] (b = 6)
+@[5] (is 6 > 3 >)
+@[6] (sure it is!)
 
-@[10]
+@[10] (👋)
 
 ---
 
