@@ -166,6 +166,7 @@ def bar = []
 ```
 @snapend
 
+---
 
 If a function grows really big and complicated, what do we do?
 
