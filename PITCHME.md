@@ -114,16 +114,16 @@ Usually based on a condition
 
 ---
 
-# Loops & Branches
+#### Loops & Branches
 
-@snap[west]
+@snap[west span-20]
 ![Top-down](down-arrow.png)
 @snapend
 
-@snap[center]
+@snap[center span-20]
 ![Branch](branch.png)
 @snapend
 
-@snap[east]
+@snap[east span-20]
 ![Branch](loop.png)
 @snapend
