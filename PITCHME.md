@@ -8,7 +8,8 @@
 
 ---
 
-#### I'm Sam Moorhouse (@sammoorhouse)
+#### I'm Sam Moorhouse 
+@fa[twitter] @sammoorhouse
 I ❤️ to teach programming
 
 ---
