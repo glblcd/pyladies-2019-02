@@ -14,10 +14,6 @@ I ❤️ to teach programming
 ---
 
 #### I run Global Code
-<style>
- bg-color: black;
-</style>
-
 a summer program for software engineers
 
 ---
@@ -166,10 +162,19 @@ AAAAAARGH!
 
 ---
 
-So how do we manage complexity?
+What happens as we work?
 * Repeated code
 * Lots of loops & branches
 * I've run out of variable names :)
+
+---
+
+If a function grows really big and complex
+
+* just create a new one
+* they're free!
+
+Use functions for repeated tasks
 
 ---?gist=sammoorhouse/54ec0e75e2e976e5c4c934b7f8bab52d&title=Managing Complexity&lang=python
 @[6-13](Lots of repeated code)
@@ -185,13 +190,6 @@ So how do we manage complexity?
 @[]
 
 ---
-
-If a function grows really big and complicated
-
-* just create a new one
-* they're free!
-
-Use functions for repeated tasks
 
 ---?gist=sammoorhouse/a5ac4b5cfafa150c3f3e935a11cdf10e&title=exercise&lang=python
 @[1-7] Python Dictionary
