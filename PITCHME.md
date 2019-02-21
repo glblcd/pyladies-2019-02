@@ -150,24 +150,11 @@ AAAAAARGH!
 ---
 
 So how do we manage complexity?
+* Repeated code
+* Lots of loops & branches
+* I've run out of variable names :)
 
----
-
-@snap[north]
-### Functions!
-@snapend
-
-@snap[west span-40]
-```python
-def foo = {}
-```
-@snapend
-
-@snap[east span-40]
-```python
-def bar = []
-```
-@snapend
+---?gist=sammoorhouse/54ec0e75e2e976e5c4c934b7f8bab52d&title=Managing Complexity
 
 ---
 
