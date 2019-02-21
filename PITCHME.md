@@ -16,6 +16,10 @@ I ❤️ to teach programming
 #### I run Global Code
 a summer program for software engineers
 
+@snap[northeast]
+<--
+@snapend
+
 ---
 
 #### I'm building turntabl
