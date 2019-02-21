@@ -97,9 +97,6 @@ Like points on a railway
 
 ---
 
-
-
-
 @snap[east span-50]
 Rule 3: A loop means you go back
 @snapend
@@ -128,11 +125,27 @@ Based on a condition
 
 ---
 
+@snap[west span-50]
+But your code gets complex...
+@snapend
+
+@snap[east span-40]
 ![Mess](mess.png)
+@snapend
 
 ---
 
+@snap[west span-50]
+But your code gets complex...
+@snapend
+
+@snap[east span-40]
 ![Mess](more-mess.png)
+@snapend
+
+---
+
+# @size[3.5em](AAAAAARGH!)
 
 ---
 
