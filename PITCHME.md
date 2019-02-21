@@ -93,3 +93,17 @@ Like points on a railway
 @snap[south]
 Usually based on a condition
 @snapend
+
+--- Loops & Branches
+
+@snap[west]
+![Top-down](down-arrow.png)
+@endsnap
+
+@snap[center]
+![Branch](branch.png)
+@endsnap
+
+@snap[east]
+![Branch](loop.png)
+@endsnap
