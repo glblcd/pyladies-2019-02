@@ -11,7 +11,7 @@
 * I run Global Code (@glblcd), a summer program for software engineers
 * I'm also building turntabl (@turntablio), a sustainable startup in Ghana
 
----?gist=sammoorhouse/23eff05c64b53a6150e69161033aac0e&title=Python&lang=python&color=white
+---?gist=sammoorhouse/23eff05c64b53a6150e69161033aac0e&title=Python&lang=python
 @[1]
 
 @[3]
@@ -30,7 +30,7 @@
 Just like reading a poem
 @snapend
 
----?gist=sammoorhouse/fcec9fbd0e688d7fde2c347da26f573e&title=Python&lang=python&color=white
+---?gist=sammoorhouse/fcec9fbd0e688d7fde2c347da26f573e&title=Python&lang=python
 @[1]
 
 @[3]
@@ -52,7 +52,7 @@ Just like reading a poem
 Like points on a railway
 @snapend
 
----?gist=sammoorhouse/b762b3a44ff853b0f764b84f2a084688&title=Python&lang=python&color=white
+---?gist=sammoorhouse/b762b3a44ff853b0f764b84f2a084688&title=Python&lang=python
 
 @[1]
 
