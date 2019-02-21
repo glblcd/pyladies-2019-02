@@ -20,6 +20,20 @@ code.lang-python.hljs span.line.focus{
     color: #00aced;
 }
 
-div>div>section>h4>span.gc-slide ~ #gp-logo > img{
+div>div>section>h4>span.gc-slide ~ #gp-logo>img{
     opacity:0.5 !important;
+}
+
+
+@-moz-keyframes spin {
+    from { -moz-transform: rotate(0deg); }
+    to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+    from { -webkit-transform: rotate(0deg); }
+    to { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
 }

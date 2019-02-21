@@ -13,7 +13,7 @@ I ❤️ to teach programming
 
 ---
 #### @css[gc-slide](I run Global Code)
-a summer program for software engineers
+@css[spin](a summer program for software engineers)
 
 ---
 
