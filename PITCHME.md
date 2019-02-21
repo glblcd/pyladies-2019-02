@@ -22,9 +22,7 @@
 
 ---
 
-@snap[northwest]
 * Rule 1: Code is executed *Top Down*
-@snapend
 
 @snap[south]
 Just like reading a poem
