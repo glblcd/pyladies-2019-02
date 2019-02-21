@@ -153,7 +153,10 @@ So how do we manage complexity?
 
 ---
 
+@snap[north]
 ### Functions!
+@snapend
+
 @snap[west span-40]
 ```python
 def foo = {}
