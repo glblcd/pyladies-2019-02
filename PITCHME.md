@@ -171,6 +171,8 @@ What happens as we work?
 
 @quote(If a function grows really big and complex just create a new one)[Sam Moorhouse]
 
+---
+
 They're free!
 
 Use functions for repeated tasks
