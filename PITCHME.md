@@ -205,7 +205,8 @@ Use alternative syntax - more "pythonic"
 
 ---
 
-#Thanks
+# Thanks 👋
 
 Me: @fa[twitter] @sammoorhouse
+
 Global Code: @fa[twitter] @glblcd
