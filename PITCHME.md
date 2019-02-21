@@ -4,14 +4,18 @@
 
 ---
 ## Who's this guy
-* And what is he doing here
+* And what is he doing here?
 
 ---
 
-* I'm Sam Moorhouse (@sammoorhouse)
-* I teach programming for a living
-* I run Global Code (@glblcd), a summer program for software engineers
-* I'm also building turntabl (@turntablio), a sustainable startup in Ghana
+### I'm Sam Moorhouse (@sammoorhouse)
+* I ❤️ to teach programming
+
+### I run Global Code (@glblcd)
+a summer program for software engineers
+
+### I'm also building turntabl (@turntablio)
+a sustainable startup in Ghana
 
 ---?gist=sammoorhouse/23eff05c64b53a6150e69161033aac0e&title=Python&lang=python
 @[1] (hello)
