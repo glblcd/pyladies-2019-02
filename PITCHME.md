@@ -154,14 +154,14 @@ So how do we manage complexity?
 * Lots of loops & branches
 * I've run out of variable names :)
 
----?gist=sammoorhouse/54ec0e75e2e976e5c4c934b7f8bab52d&title=Managing Complexity
+---?gist=sammoorhouse/54ec0e75e2e976e5c4c934b7f8bab52d&title=Managing Complexity&lang=python
 @[6-13](Lots of repeated code)
 
----?gist=sammoorhouse/dbb29fa1bb54c63328f1ba47229724fe&title=Managing Complexity
+---?gist=sammoorhouse/dbb29fa1bb54c63328f1ba47229724fe&title=Managing Complexity&lang=python
 @[6-8](I can just define a function)
 @[10-12](...and call it when I need to)
 
----?gist=sammoorhouse/ac2eb546db335ffb1121f605d024e44d&title=Managing Complexity
+---?gist=sammoorhouse/ac2eb546db335ffb1121f605d024e44d&title=Managing Complexity&lang=python
 @[9](easier to make changes)
 
 ---
