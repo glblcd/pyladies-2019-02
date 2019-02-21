@@ -169,7 +169,7 @@ What happens as we work?
 
 ---
 
-@box(If a function grows really big and complex just create a new one)
+@quote(If a function grows really big and complex just create a new one)[Sam Moorhouse]
 
 They're free!
 
