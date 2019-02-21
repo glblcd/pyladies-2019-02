@@ -151,6 +151,22 @@ AAAAAARGH!
 
 So how do we manage complexity?
 
+---
+
+### Functions!
+@snap[west span-40]
+```python
+def foo = {}
+```
+@snapend
+
+@snap[east span-40]
+```python
+def bar = []
+```
+@snapend
+
+
 If a function grows really big and complicated, what do we do?
 
 Use functions for repeated tasks
