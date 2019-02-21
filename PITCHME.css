@@ -7,6 +7,6 @@ code.lang-python.hljs span.line {
     opacity:1.0 !important;
 }
 
-code.lang-python.hljs span.line{
+code.lang-python.hljs span.line.focus{
     color: red;
 }
