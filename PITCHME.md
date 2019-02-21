@@ -22,11 +22,11 @@
 
 ---
 
-@snap[east span-50]
+@snap[east]
 Rule 1: Code is executed *Top Down*
 @endsnap
 
-@snap[west span-40]
+@snap[west]
 ![Top-down](down-arrow.png)
 @endsnap
 
