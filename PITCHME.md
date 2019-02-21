@@ -207,6 +207,6 @@ Use alternative syntax - more "pythonic"
 
 # Thanks 👋
 
-Me: @fa[twitter] @sammoorhouse
+Me: @fa[twitter twitter-blue] @sammoorhouse
 
-Global Code: @fa[twitter] @glblcd
+Global Code: @fa[twitter twitter-blue] @glblcd
