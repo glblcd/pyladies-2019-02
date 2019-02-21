@@ -156,10 +156,21 @@ So how do we manage complexity?
 
 ---?gist=sammoorhouse/54ec0e75e2e976e5c4c934b7f8bab52d&title=Managing Complexity
 
+---?gist=sammoorhouse/dbb29fa1bb54c63328f1ba47229724fe&title=Managing Complexity
+
+---?gist=sammoorhouse/ac2eb546db335ffb1121f605d024e44d&title=Managing Complexity
+
 ---
 
-If a function grows really big and complicated, what do we do?
+If a function grows really big and complicated
+
+* just create a new one
+* they're free!
 
 Use functions for repeated tasks
+
+---?gist=sammoorhouse/a5ac4b5cfafa150c3f3e935a11cdf10e&title=exercise
+
+---
 
 Use alternative syntax - more "pythonic"
