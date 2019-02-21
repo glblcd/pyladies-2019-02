@@ -22,7 +22,13 @@
 
 ---
 
-* **Rule 1**: Code is executed *Top Down*
+@snap[east span-50]
+Rule 1: Code is executed *Top Down*
+@endsnap
+
+@snap[west span-40]
+![Top-down](down-arrow.png)
+@endsnap
 
 @snap[south]
 Just like reading a poem
