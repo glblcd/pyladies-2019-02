@@ -46,8 +46,14 @@ Just like reading a poem
 
 ---
 
-* **Rule 1**: Code is executed *Top Down*
-* **Rule 2**: A branch means you take one path or the other
+@snap[east span-50]
+Rule 2: A branch means you take one path or the other
+@snapend
+
+@snap[west span-40]
+![Top-down](branch.png)
+@snapend
+
 
 @snap[south]
 Like points on a railway
@@ -91,9 +97,15 @@ Like points on a railway
 
 ---
 
-* **Rule 1**: Code is executed *Top Down*
-* **Rule 2**: A branch means you take one path or the other
-* **Rule 3**: A loop means you go back
+
+
+
+@snap[east span-50]
+Rule 3: A loop means you go back
+@snapend
+
+@snap[west span-40]
+![Top-down](loop.png)
 @snapend
 
 @snap[south]
@@ -106,12 +118,12 @@ Usually based on a condition
 
 @snap[west]
 ![Top-down](down-arrow.png)
-@endsnap
+@snapend
 
 @snap[center]
 ![Branch](branch.png)
-@endsnap
+@snapend
 
 @snap[east]
 ![Branch](loop.png)
-@endsnap
+@snapend
