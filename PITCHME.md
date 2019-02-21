@@ -16,8 +16,8 @@ I ❤️ to teach programming
 #### I run Global Code
 a summer program for software engineers
 
-@snap[north-east]
-<--
+@snap[north-west]
+←
 @snapend
 
 ---
