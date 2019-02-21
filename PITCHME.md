@@ -12,8 +12,7 @@ and what is he doing here?
 I ❤️ to teach programming
 
 ---
-@css[class-name](gc-slide)
-#### I run Global Code
+#### @css[gc-slide](I run Global Code)
 a summer program for software engineers
 
 ---
