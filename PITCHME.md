@@ -136,6 +136,8 @@ Usually based on a condition
 
 ![Mess](more-mess.png)
 
+---
+
 So how do we manage complexity?
 
 If a function grows really big and complicated, what do we do?
