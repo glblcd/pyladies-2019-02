@@ -94,7 +94,9 @@ Like points on a railway
 Usually based on a condition
 @snapend
 
---- Loops & Branches
+---
+
+# Loops & Branches
 
 @snap[west]
 ![Top-down](down-arrow.png)
