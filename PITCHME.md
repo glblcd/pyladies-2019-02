@@ -1,5 +1,3 @@
-@title[PyLadies Ghana: Control Flow]
-
 ## PyLadies Ghana
 ##### March 2019
 ![Global Code](GC_Logo_artwork_RGB-LOGO_colour_SMALL.png)
@@ -178,3 +176,7 @@ Use functions for repeated tasks
 ---
 
 Use alternative syntax - more "pythonic"
+
+---?gist=sammoorhouse/d151cafd9289d8223205cd064fa76008&title=List Comprehension&lang=python
+
+@[12]
