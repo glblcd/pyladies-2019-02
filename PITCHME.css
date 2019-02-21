@@ -26,9 +26,6 @@ div>div>section>h4>span.gc-slide ~ #gp-logo>img{
 
 
 div#gp-logo img {
-    margin: 20px;
-    width: 100px;
-    height: 100px;
     -webkit-animation-name: spin;
     -webkit-animation-duration: 4000ms;
     -webkit-animation-iteration-count: infinite;
