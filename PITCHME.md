@@ -3,7 +3,7 @@
 ![Global Code](GC_Logo_artwork_RGB-LOGO_colour_SMALL.png)
 
 ---
-# Who's this guy
+## Who's this guy
 * And what is he doing here?
 
 ---
@@ -29,6 +29,7 @@ a sustainable startup in Ghana
 @[5] 5
 
 @[7] (goodbye)
+@[]
 
 ---
 
