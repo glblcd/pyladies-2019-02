@@ -109,20 +109,20 @@ Rule 3: A loop means you go back
 @snapend
 
 @snap[south]
-Usually based on a condition
+Based on a condition
 @snapend
 
 ---
 
-@snap[west span-20]
+@snap[west span-20 lines]
 ![Top-down](down-arrow.png)
 @snapend
 
-@snap[midpoint span-20]
+@snap[midpoint span-20 lines]
 ![Branch](branch.png)
 @snapend
 
-@snap[east span-20]
+@snap[east span-20 lines]
 ![Branch](loop.png)
 @snapend
 

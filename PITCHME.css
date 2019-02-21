@@ -11,3 +11,7 @@ code.lang-python.hljs span.line {
 code.lang-python.hljs span.line.focus{
     color: red;
 }
+
+.lines > img{
+    height : 250px;
+}
