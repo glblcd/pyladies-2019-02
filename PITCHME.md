@@ -169,11 +169,11 @@ What happens as we work?
 
 ---
 
-@quote[If a function grows really big and complex just create a new one](Sam Moorhouse)
+@quote[If a function grows really big and complex just create a new one](me)
 
 ---
 
-They're free!
+Functions are free!
 
 Use functions for repeated tasks
 
@@ -187,7 +187,7 @@ Use functions for repeated tasks
 @[]
 
 ---?gist=sammoorhouse/ac2eb546db335ffb1121f605d024e44d&title=Managing Complexity&lang=python
-@[9](easier to make changes)
+@[8](easier to make changes)
 @[]
 
 ---
