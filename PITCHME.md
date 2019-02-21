@@ -4,7 +4,7 @@
 
 ---
 ## Who's this guy
-* And what is he doing here?
+and what is he doing here?
 
 ---
 
@@ -207,6 +207,6 @@ Use alternative syntax - more "pythonic"
 
 # Thanks 👋
 
-Me: @fa[twitter twitter-blue] @sammoorhouse
+@fa[twitter twitter-blue] @sammoorhouse
 
-Global Code: @fa[twitter twitter-blue] @glblcd
+@fa[twitter twitter-blue] @glblcd
