@@ -145,7 +145,7 @@ But your code gets complex...
 
 ---
 
-# @size[1.5em](AAAAAARGH!)
+AAAAAARGH!
 
 ---
 
