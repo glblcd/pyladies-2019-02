@@ -26,6 +26,8 @@ a summer program for software engineers
 #### I'm building turntabl
 a sustainable startup in Ghana
 
+@css[fragment](🤙 call me!)
+
 ---?gist=sammoorhouse/23eff05c64b53a6150e69161033aac0e&title=Python&lang=python
 @[1] (hello)
 
