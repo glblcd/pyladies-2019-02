@@ -40,11 +40,11 @@ a sustainable startup in Ghana
 
 ---
 
-@snap[east span-60]
+@snap[east span-70]
 Rule 1: Code is executed *Top Down*
 @snapend
 
-@snap[west span-40]
+@snap[west span-30]
 ![Top-down](down-arrow.png)
 @snapend
 
@@ -65,11 +65,11 @@ Just like reading a poem
 
 ---
 
-@snap[east span-60]
+@snap[east span-70]
 Rule 2: A branch means you take one path or the other
 @snapend
 
-@snap[west span-40]
+@snap[west span-30]
 ![Top-down](branch.png)
 @snapend
 
@@ -117,11 +117,11 @@ Like points on a railway
 
 ---
 
-@snap[east span-60]
+@snap[east span-70]
 Rule 3: A loop means you go back
 @snapend
 
-@snap[west span-40]
+@snap[west span-30]
 ![Top-down](loop.png)
 @snapend
 
