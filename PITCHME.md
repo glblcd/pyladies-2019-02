@@ -18,7 +18,7 @@ I ❤️ to teach programming
 a summer program for software engineers
 @snapend
 
-@snap[west span-40]
+@snap[west span-40 circle]
 ![Global Code](IMG_1587.JPG)
 @snapend
 ---
