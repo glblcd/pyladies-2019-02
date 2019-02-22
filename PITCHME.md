@@ -1,4 +1,3 @@
----?image=srikanta-h-u-618049-unsplash.jpg&opacity=40
 ## PyLadies Ghana
 ##### March 2019
 ![Global Code](GC_Logo_artwork_RGB-LOGO_colour_SMALL.png)
