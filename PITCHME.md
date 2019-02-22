@@ -170,13 +170,13 @@ But your code gets complex...
 ---
 
 What happens as we work?
-* Repeated code
 * Lots of loops & branches
+* Repeated code
 * I've run out of variable names :)
 
 ---
 
-@quote[If a function grows really big and complex just create a new one](me)
+@quote[If a function grows really big and complex just create a new one](me, just now)
 
 ---
 
@@ -218,3 +218,5 @@ Use alternative syntax - more "pythonic"
 @fa[twitter twitter-blue] @sammoorhouse
 
 @fa[twitter twitter-blue] @glblcd
+
+https://gitpitch.com/glblcd/pyladies-2019-02
