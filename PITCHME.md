@@ -147,7 +147,7 @@ Based on a condition
 But your code gets complex...
 @snapend
 
-@snap[east span-60]
+@snap[east span-70]
 ![Mess](mess.png)
 @snapend
 
