@@ -1,3 +1,4 @@
+---?image=srikantha-h-u-618049-unsplash.jpg&opacity=40
 ## PyLadies Ghana
 ##### March 2019
 ![Global Code](GC_Logo_artwork_RGB-LOGO_colour_SMALL.png)
@@ -19,7 +20,7 @@ a summer program for software engineers
 @snapend
 
 @snap[west span-40]
-![Global Code](GC_Logo_artwork_RGB-LOGO_colour_SMALL.png)
+![Global Code](IMG_1587.JPG)
 @snapend
 ---
 
