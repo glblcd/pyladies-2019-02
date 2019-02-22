@@ -22,5 +22,5 @@ code.lang-python.hljs span.line.focus{
 
 .circle img {
     /* border-radius: 50%; */
-    clip-path: circle(60px at center);
+    clip-path: circle(120px at center);
 }
