@@ -12,9 +12,15 @@ and what is he doing here?
 I ❤️ to teach programming
 
 ---
-#### @css[gc-slide](I run Global Code)
-@css[spin](a summer program for software engineers)
 
+@snap[east span-50]
+#### I run Global Code
+a summer program for software engineers
+@snapend
+
+@snap[west span-40]
+![Global Code](GC_Logo_artwork_RGB-LOGO_colour_SMALL.png)
+@snapend
 ---
 
 #### I'm building turntabl
